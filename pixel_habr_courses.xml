@@ -1,0 +1,1203 @@
+<yml_catalog date="2026-07-14 10:07"> <!--Дата и время последнего обновления фида-->
+    <shop>
+	    <name>pixel_habr_courses.xml</name> 
+	    <company>Пиксель</company>
+	    <url>https://clubpixel.ru?utm_source=habr&amp;utm_medium=agregator&amp;utm_campaign=partner</url>
+    	<currencies> <!--Используемые в фиде валюты-->
+	    	<currency id="RUB" rate="1"/>
+    	</currencies>
+        <offers>
+
+            <offer id="pixel_001" available="true">
+                <name>Робототехника для дошкольников на базе Lego (Лего)</name>
+                <url>https://clubpixel.ru/robototekhnika-dlya-doshkolnikov?utm_source=habr&amp;utm_medium=agregator&amp;utm_campaign=partner</url>
+                <picture>https://github.com/pixel-marketing/feed/blob/e3fe310266bf5598cee7908a8989878eb9e116cd/course-1-%D0%A0%D0%BE%D0%B1%D0%BE%D1%82%D0%BE%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D0%B4%D0%BE%D1%88%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D0%BD%D0%B0%20%D0%B1%D0%B0%D0%B7%D0%B5%20Lego%20(%D0%9B%D0%B5%D0%B3%D0%BE).jpg.jpg</picture>
+                <price>36000</price>
+                <oldprice>43200</oldprice>
+                <param name="Количество занятий">36</param>
+                <currencyId>RUB</currencyId>
+                <description>Робототехника Lego для дошкольников — курс для детей и школьников, который помогает освоить выбранное IT-направление через практические задания и учебные проекты. Ученики знакомятся с базовыми инструментами, развивают алгоритмическое и проектное мышление, выполняют задания по теме курса и постепенно переходят от простых упражнений к самостоятельным работам. Программа подходит для старта в цифровых навыках и дальнейшего изучения программирования, дизайна, разработки игр или робототехники в зависимости от направления курса.</description>
+                <target>Научиться программировать</target>
+                <directions>
+                    <direction id="1">Программирование</direction>
+                    <direction id="40">Робототехника</direction>
+                </directions>
+                <grades>
+                    <grade id="1">Дошкольное</grade>
+                    <grade id="2">1 класс</grade>
+                </grades>
+                <format>Онлайн</format>
+                <type>Курс</type>
+                <param name="Выдаётся сертификат">Да</param>
+                <param name="Есть пробный урок">Да</param> 
+                <param name="Оплата материнским капиталом">Да</param>
+                <param name="Гарантия результата">Нет</param>
+                <param name="Есть куратор">Нет</param>
+                <param name="Подбор графика занятий">Да</param>
+                <param name="Когда">В любое время</param>
+                <duration unit="months">9</duration>
+                <param name="Оплата в рассрочку">Да</param>
+                <param name="Период рассрочки">до 12 месяцев</param>
+                <param name="Ежемесячный платеж">11250</param>
+        
+            </offer>
+            
+            <offer id="pixel_002" available="true">
+                <name>Программирование для дошкольников и младших школьников</name>
+                <url>https://clubpixel.ru/programmirovanie-dlya-mladshikh-shkolnikov?utm_source=habr&amp;utm_medium=agregator&amp;utm_campaign=partner</url>
+                <picture>https://github.com/pixel-marketing/feed/blob/e3fe310266bf5598cee7908a8989878eb9e116cd/course-1-%D0%A0%D0%BE%D0%B1%D0%BE%D1%82%D0%BE%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D0%B4%D0%BE%D1%88%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D0%BD%D0%B0%20%D0%B1%D0%B0%D0%B7%D0%B5%20Lego%20(%D0%9B%D0%B5%D0%B3%D0%BE).jpg.jpg</picture>
+                <price>36000</price>
+                <oldprice>43200</oldprice>
+                <currencyId>RUB</currencyId>
+                <param name="Количество занятий">36</param>
+                <description>Программирование для дошкольников и младших школьников — курс для детей и школьников, который помогает освоить выбранное IT-направление через практические задания и учебные проекты. Ученики знакомятся с базовыми инструментами, развивают алгоритмическое и проектное мышление, выполняют задания по теме курса и постепенно переходят от простых упражнений к самостоятельным работам. Программа подходит для старта в цифровых навыках и дальнейшего изучения программирования, дизайна, разработки игр или робототехники в зависимости от направления курса.</description>
+                <target>Научиться программировать</target>
+                <directions>
+                    <direction id="1">Программирование</direction>
+                    <direction id="5">Scratch</direction>
+                    <direction id="33">Kodu Game Lab</direction>
+                    <direction id="34">Мультипликация</direction>
+                </directions>
+                <grades>
+                    <grade id="1">Дошкольное</grade>
+                    <grade id="2">1 класс</grade>
+                </grades>
+                <format>Онлайн</format>
+                <type>Курс</type>
+                <param name="Выдаётся сертификат">Да</param>
+                <param name="Есть пробный урок">Да</param> 
+                <param name="Оплата материнским капиталом">Да</param>
+                <param name="Гарантия результата">Нет</param>
+                <param name="Есть куратор">Нет</param>
+                <param name="Подбор графика занятий">Да</param>
+                <param name="Когда">В любое время</param>
+                <duration unit="months">9</duration>
+                <param name="Оплата в рассрочку">Да</param>
+                <param name="Период рассрочки">до 12 месяцев</param>
+                <param name="Ежемесячный платеж">11250</param>
+                
+            </offer>
+                
+            <offer id="pixel_003" available="true">
+                <name>Детское программирование. Scratch для детей от 6 до 9 лет</name>
+                <url>https://clubpixel.ru/detskoe_programmirovanie_scratch?utm_source=rbc&amp;utm_medium=agregator&amp;utm_campaign=rbk-kursy-poisk-onlayn-obrazovaniya</url>
+                <picture>https://github.com/pixel-marketing/feed/blob/e3fe310266bf5598cee7908a8989878eb9e116cd/course-3-%D0%94%D0%B5%D1%82%D1%81%D0%BA%D0%BE%D0%B5%20%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5.%20Scratch%20%D0%B4%D0%BB%D1%8F%20%D0%B4%D0%B5%D1%82%D0%B5%D0%B8%CC%86%20%D0%BE%D1%82%206%20%D0%B4%D0%BE%209%20%D0%BB%D0%B5%D1%82.jpg.jpg</picture>
+                <price>36000</price>
+                <oldprice>43200</oldprice>
+                <currencyId>RUB</currencyId>
+                <param name="Количество занятий">36</param>
+                <description>Scratch для детей 6-9 лет — курс для детей и школьников, который помогает освоить выбранное IT-направление через практические задания и учебные проекты. Ученики знакомятся с базовыми инструментами, развивают алгоритмическое и проектное мышление, выполняют задания по теме курса и постепенно переходят от простых упражнений к самостоятельным работам. Программа подходит для старта в цифровых навыках и дальнейшего изучения программирования, дизайна, разработки игр или робототехники в зависимости от направления курса.</description>
+                <target>Научиться программировать</target>
+                <directions>
+                    <direction id="1">Программирование</direction>
+                    <direction id="2">Scratch</direction>
+                    <direction id="13">Разработка игр</direction>
+                    <direction id="34">Мультипликация</direction>
+                    <direction id="18">Геймдизайн</direction>
+                </directions>
+                <grades>
+                    <grade id="1">Дошкольное</grade>
+                    <grade id="2">1 класс</grade>
+                    <grade id="3">2 класс</grade>
+                    <grade id="4">3 класс</grade>
+                </grades>
+                <format>Онлайн</format>
+                <type>Курс</type>
+                <param name="Выдаётся сертификат">Да</param>
+                <param name="Есть пробный урок">Да</param> 
+                <param name="Оплата материнским капиталом">Да</param>
+                <param name="Гарантия результата">Нет</param>
+                <param name="Есть куратор">Нет</param>
+                <param name="Подбор графика занятий">Да</param>
+                <param name="Когда">В любое время</param>
+                <duration unit="months">9</duration>
+                <param name="Оплата в рассрочку">Да</param>
+                <param name="Период рассрочки">до 12 месяцев</param>
+                <param name="Ежемесячный платеж">11250</param>
+
+                </offer>
+                
+            <offer id="pixel_004" available="true">
+                <name>3D-моделирование для детей от 6 до 9 лет</name>
+                <url>https://clubpixel.ru/tinkercad?utm_source=habr&amp;utm_medium=agregator&amp;utm_campaign=partner</url>
+                <picture>https://github.com/pixel-marketing/feed/blob/e3fe310266bf5598cee7908a8989878eb9e116cd/course-4-3D-%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B4%D0%BB%D1%8F%20%D0%B4%D0%B5%D1%82%D0%B5%D0%B8%CC%86%20%D0%BE%D1%82%206%20%D0%B4%D0%BE%209%20%D0%BB%D0%B5%D1%82.jpg</picture>
+                <price>36000</price>
+                <oldprice>43200</oldprice>
+                <currencyId>RUB</currencyId>
+                <param name="Количество занятий">36</param>
+                <description>3D-моделирование для детей 6-9 лет — курс для детей и школьников, который помогает освоить выбранное IT-направление через практические задания и учебные проекты. Ученики знакомятся с базовыми инструментами, развивают алгоритмическое и проектное мышление, выполняют задания по теме курса и постепенно переходят от простых упражнений к самостоятельным работам. Программа подходит для старта в цифровых навыках и дальнейшего изучения программирования, дизайна, разработки игр или робототехники в зависимости от направления курса.</description>
+                <target>Научиться программировать</target>
+                <directions>
+                    <direction id="1">Программирование</direction>
+                    <direction id="29">3D-моделирование</direction>
+                    <direction id="38">TinkerCAD</direction>
+                </directions>
+                <grades>
+                    <grade id="1">Дошкольное</grade>
+                    <grade id="2">1 класс</grade>
+                    <grade id="3">2 класс</grade>
+                    <grade id="4">3 класс</grade>
+                </grades>
+                <format>Онлайн</format>
+                <type>Курс</type>
+                <param name="Выдаётся сертификат">Да</param>
+                <param name="Есть пробный урок">Да</param> 
+                <param name="Оплата материнским капиталом">Да</param>
+                <param name="Гарантия результата">Нет</param>
+                <param name="Есть куратор">Нет</param>
+                <param name="Подбор графика занятий">Да</param>
+                <param name="Когда">В любое время</param>
+                <duration unit="months">9</duration>
+                <param name="Оплата в рассрочку">Да</param>
+                <param name="Период рассрочки">до 12 месяцев</param>
+                <param name="Ежемесячный платеж">11250</param>
+
+            </offer>
+            
+            <offer id="pixel_005" available="true">
+                <name>Создание игр для детей от 7 до 10 лет. Minecraft Junior</name>
+                <url>https://clubpixel.ru/sozdanie_igr_v_minecraft?utm_source=habr&amp;utm_medium=agregator&amp;utm_campaign=partner</url>
+                <picture>https://github.com/pixel-marketing/feed/blob/e3fe310266bf5598cee7908a8989878eb9e116cd/course-5-%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B8%D0%B3%D1%80%20%D0%B4%D0%BB%D1%8F%20%D0%B4%D0%B5%D1%82%D0%B5%D0%B8%CC%86%20%D0%BE%D1%82%207%20%D0%B4%D0%BE%2010%20%D0%BB%D0%B5%D1%82.%20Minecraft%20Junior.jpg.jpg</picture>
+                <price>36000</price>
+                <oldprice>43200</oldprice>
+                <currencyId>RUB</currencyId>
+                <param name="Количество занятий">36</param>
+                <description>Создание игр в Minecraft для детей 7-10 лет — курс для детей и школьников, который помогает освоить выбранное IT-направление через практические задания и учебные проекты. Ученики знакомятся с базовыми инструментами, развивают алгоритмическое и проектное мышление, выполняют задания по теме курса и постепенно переходят от простых упражнений к самостоятельным работам. Программа подходит для старта в цифровых навыках и дальнейшего изучения программирования, дизайна, разработки игр или робототехники в зависимости от направления курса.</description>
+                <target>Научиться программировать</target>
+                <directions>
+                    <direction id="1">Программирование</direction>
+                    <direction id="4">Minecraft</direction>
+                </directions>
+                <grades>
+                    <grade id="2">1 класс</grade>
+                    <grade id="3">2 класс</grade>
+                    <grade id="4">3 класс</grade>
+                    <grade id="5">4 класс</grade>
+                </grades>
+                <format>Онлайн</format>
+                <type>Курс</type>
+                <param name="Выдаётся сертификат">Да</param>
+                <param name="Есть пробный урок">Да</param> 
+                <param name="Оплата материнским капиталом">Да</param>
+                <param name="Гарантия результата">Нет</param>
+                <param name="Есть куратор">Нет</param>
+                <param name="Подбор графика занятий">Да</param>
+                <param name="Когда">В любое время</param>
+                <duration unit="months">9</duration>
+                <param name="Оплата в рассрочку">Да</param>
+                <param name="Период рассрочки">до 12 месяцев</param>
+                <param name="Ежемесячный платеж">11250</param>
+
+            </offer>
+            
+            <offer id="pixel_006" available="true">
+                <name>Робототехника для школьников на базе Lego WeDo 2.0</name>
+                <url>https://clubpixel.ru/robototekhnika-dlya-shkolnikov?utm_source=habr&amp;utm_medium=agregator&amp;utm_campaign=partner</url>
+                <picture>https://github.com/pixel-marketing/feed/blob/e3fe310266bf5598cee7908a8989878eb9e116cd/course-6-%D0%A0%D0%BE%D0%B1%D0%BE%D1%82%D0%BE%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D1%88%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D0%BD%D0%B0%20%D0%B1%D0%B0%D0%B7%D0%B5%20Lego%20WeDo%202.0.jpg.jpg</picture>
+                <price>36000</price>
+                <oldprice>43200</oldprice>
+                <currencyId>RUB</currencyId>
+                <param name="Количество занятий">36</param>
+                <description>Робототехника Lego WeDo 2.0 для школьников — курс для детей и школьников, который помогает освоить выбранное IT-направление через практические задания и учебные проекты. Ученики знакомятся с базовыми инструментами, развивают алгоритмическое и проектное мышление, выполняют задания по теме курса и постепенно переходят от простых упражнений к самостоятельным работам. Программа подходит для старта в цифровых навыках и дальнейшего изучения программирования, дизайна, разработки игр или робототехники в зависимости от направления курса.</description>
+                <target>Научиться программировать</target>
+                <directions>
+                    <direction id="1">Программирование</direction>
+                    <direction id="40">Робототехника</direction>
+                </directions>
+                <grades>
+                    <grade id="2">1 класс</grade>
+                    <grade id="3">2 класс</grade>
+                    <grade id="4">3 класс</grade>
+                    <grade id="5">4 класс</grade>
+                </grades>
+                <format>Онлайн</format>
+                <type>Курс</type>
+                <param name="Выдаётся сертификат">Да</param>
+                <param name="Есть пробный урок">Да</param> 
+                <param name="Оплата материнским капиталом">Да</param>
+                <param name="Гарантия результата">Нет</param>
+                <param name="Есть куратор">Нет</param>
+                <param name="Подбор графика занятий">Да</param>
+                <param name="Когда">В любое время</param>
+                <duration unit="months">9</duration>
+                <param name="Оплата в рассрочку">Да</param>
+                <param name="Период рассрочки">до 12 месяцев</param>
+                <param name="Ежемесячный платеж">11250</param>
+
+            </offer>
+            
+            <offer id="pixel_007" available="true">
+                <name>Компьютерная грамотность для детей</name>
+                <url>https://clubpixel.ru/kompyuternaya-gramotnost-dlya-detej?utm_source=rbc&amp;utm_medium=agregator&amp;utm_campaign=rbk-kursy-poisk-onlayn-obrazovaniya</url>
+                <picture>https://github.com/pixel-marketing/feed/blob/e3fe310266bf5598cee7908a8989878eb9e116cd/course-7-%D0%9A%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D0%B0%D1%8F%20%D0%B3%D1%80%D0%B0%D0%BC%D0%BE%D1%82%D0%BD%D0%BE%D1%81%D1%82%D1%8C%20%D0%B4%D0%BB%D1%8F%20%D0%B4%D0%B5%D1%82%D0%B5%D0%B8%CC%86.jpg.jpg</picture>
+                <price>36000</price>
+                <oldprice>43200</oldprice>
+                <currencyId>RUB</currencyId>
+                <param name="Количество занятий">36</param>
+                <description>Компьютерная грамотность для детей — курс для детей и школьников, который помогает освоить выбранное IT-направление через практические задания и учебные проекты. Ученики знакомятся с базовыми инструментами, развивают алгоритмическое и проектное мышление, выполняют задания по теме курса и постепенно переходят от простых упражнений к самостоятельным работам. Программа подходит для старта в цифровых навыках и дальнейшего изучения программирования, дизайна, разработки игр или робототехники в зависимости от направления курса.</description>
+                <target>Научиться программировать</target>
+                <directions>
+                    <direction id="1">Программирование</direction>
+                    <direction id="9">Компьютерная грамотность</direction>
+                    <direction id="24">Презентации</direction>
+                    <direction id="28">Информационные технологии</direction>
+                    <direction id="8">Нейросети</direction>
+                    <direction id="31">Кибербезопасность</direction>
+                </directions>
+                <grades>
+                    <grade id="2">1 класс</grade>
+                    <grade id="3">2 класс</grade>
+                    <grade id="4">3 класс</grade>
+                    <grade id="5">4 класс</grade>
+                </grades>
+                <format>Онлайн</format>
+                <type>Курс</type>
+                <param name="Выдаётся сертификат">Да</param>
+                <param name="Есть пробный урок">Да</param> 
+                <param name="Оплата материнским капиталом">Да</param>
+                <param name="Гарантия результата">Нет</param>
+                <param name="Есть куратор">Нет</param>
+                <param name="Подбор графика занятий">Да</param>
+                <param name="Когда">В любое время</param>
+                <duration unit="months">9</duration>
+                <param name="Оплата в рассрочку">Да</param>
+                <param name="Период рассрочки">до 12 месяцев</param>
+                <param name="Ежемесячный платеж">11250</param>
+        
+            </offer>
+            
+            <offer id="pixel_008" available="true">
+                <name>Курс Godot для детей 8-11 лет. Разработка игр</name>
+                <url>https://clubpixel.ru/godot?utm_source=habr&amp;utm_medium=agregator&amp;utm_campaign=partner</url>
+                <picture>https://github.com/pixel-marketing/feed/blob/e3fe310266bf5598cee7908a8989878eb9e116cd/course-8-%D0%9A%D1%83%D1%80%D1%81%20Godot%20%D0%B4%D0%BB%D1%8F%20%D0%B4%D0%B5%D1%82%D0%B5%D0%B8%CC%86%208-11%20%D0%BB%D0%B5%D1%82.%20%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0%20%D0%B8%D0%B3%D1%80.jpg.jpg</picture>
+                <price>36000</price>
+                <oldprice>43200</oldprice>
+                <currencyId>RUB</currencyId>
+                <param name="Количество занятий">36</param>
+                <description>Godot для детей 8-11 лет. Разработка игр — курс для детей и школьников, который помогает освоить выбранное IT-направление через практические задания и учебные проекты. Ученики знакомятся с базовыми инструментами, развивают алгоритмическое и проектное мышление, выполняют задания по теме курса и постепенно переходят от простых упражнений к самостоятельным работам. Программа подходит для старта в цифровых навыках и дальнейшего изучения программирования, дизайна, разработки игр или робототехники в зависимости от направления курса.</description>
+                <target>Научиться программировать</target>
+                <directions>
+                    <direction id="1">Программирование</direction>
+                    <direction id="37">Godot</direction>
+                    <direction id="18">Геймдизайн</direction>
+                    <direction id="13">Разработка игр</direction>
+                </directions>
+                <grades>
+                    <grade id="3">2 класс</grade>
+                    <grade id="4">3 класс</grade>
+                    <grade id="5">4 класс</grade>
+                    <grade id="6">5 класс</grade>
+                </grades>
+                <format>Онлайн</format>
+                <type>Курс</type>
+                <param name="Выдаётся сертификат">Да</param>
+                <param name="Есть пробный урок">Да</param> 
+                <param name="Оплата материнским капиталом">Да</param>
+                <param name="Гарантия результата">Нет</param>
+                <param name="Есть куратор">Нет</param>
+                <param name="Подбор графика занятий">Да</param>
+                <param name="Когда">В любое время</param>
+                <duration unit="months">9</duration>
+                <param name="Оплата в рассрочку">Да</param>
+                <param name="Период рассрочки">до 12 месяцев</param>
+                <param name="Ежемесячный платеж">11250</param>
+
+            </offer>
+            
+            <offer id="pixel_009" available="true">
+                <name>Курс GIMP для детей: основы графики и дизайна</name>
+                <url>https://clubpixel.ru/kurs_gimp_dlya_detej?utm_source=habr&amp;utm_medium=agregator&amp;utm_campaign=partner</url>
+                <picture>https://github.com/pixel-marketing/feed/blob/e3fe310266bf5598cee7908a8989878eb9e116cd/course-9-%D0%9A%D1%83%D1%80%D1%81%20GIMP%20%D0%B4%D0%BB%D1%8F%20%D0%B4%D0%B5%D1%82%D0%B5%D0%B8%CC%86_%20%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D0%BA%D0%B8%20%D0%B8%20%D0%B4%D0%B8%D0%B7%D0%B0%D0%B8%CC%86%D0%BD%D0%B0.jpg.jpg</picture>
+                <price>36000</price>
+                <oldprice>43200</oldprice>
+                <currencyId>RUB</currencyId>
+                <param name="Количество занятий">36</param>
+                <description>GIMP для детей: основы графики и дизайна — курс для детей и школьников, который помогает освоить выбранное IT-направление через практические задания и учебные проекты. Ученики знакомятся с базовыми инструментами, развивают алгоритмическое и проектное мышление, выполняют задания по теме курса и постепенно переходят от простых упражнений к самостоятельным работам. Программа подходит для старта в цифровых навыках и дальнейшего изучения программирования, дизайна, разработки игр или робототехники в зависимости от направления курса.</description>
+                <target>Научиться программировать</target>
+                <directions>
+                    <direction id="17">Графический дизайн</direction>
+                    <direction id="35">Цифровое рисование</direction>
+                </directions>
+                <grades>
+                    <grade id="3">2 класс</grade>
+                    <grade id="4">3 класс</grade>
+                    <grade id="5">4 класс</grade>
+                    <grade id="6">5 класс</grade>
+                </grades>
+                <format>Онлайн</format>
+                <type>Курс</type>
+                <param name="Выдаётся сертификат">Да</param>
+                <param name="Есть пробный урок">Да</param> 
+                <param name="Оплата материнским капиталом">Да</param>
+                <param name="Гарантия результата">Нет</param>
+                <param name="Есть куратор">Нет</param>
+                <param name="Подбор графика занятий">Да</param>
+                <param name="Когда">В любое время</param>
+                <duration unit="months">9</duration>
+                <param name="Оплата в рассрочку">Да</param>
+                <param name="Период рассрочки">до 12 месяцев</param>
+                <param name="Ежемесячный платеж">11250</param>
+     
+            </offer>
+            
+            <offer id="pixel_010" available="true">
+                <name>Курс Scratch —программирование для детей 8-12 лет</name>
+                <url>https://clubpixel.ru/scratch?utm_source=habr&amp;utm_medium=agregator&amp;utm_campaign=partner</url>
+                <picture>https://github.com/pixel-marketing/feed/blob/e3fe310266bf5598cee7908a8989878eb9e116cd/course-10-%D0%9A%D1%83%D1%80%D1%81%20Scratch%20%E2%80%94%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B4%D0%BB%D1%8F%20%D0%B4%D0%B5%D1%82%D0%B5%D0%B8%CC%86%208-12%20%D0%BB%D0%B5%D1%82.jpg.jpg</picture>
+                <price>36000</price>
+                <oldprice>43200</oldprice>
+                <currencyId>RUB</currencyId>
+                <param name="Количество занятий">36</param>
+                <description>Scratch для детей 8-12 лет — курс для детей и школьников, который помогает освоить выбранное IT-направление через практические задания и учебные проекты. Ученики знакомятся с базовыми инструментами, развивают алгоритмическое и проектное мышление, выполняют задания по теме курса и постепенно переходят от простых упражнений к самостоятельным работам. Программа подходит для старта в цифровых навыках и дальнейшего изучения программирования, дизайна, разработки игр или робототехники в зависимости от направления курса.</description>
+                <target>Научиться программировать</target>
+                <directions>
+                    <direction id="1">Программирование</direction>
+                    <direction id="5">Scratch</direction>
+                    <direction id="13">Разработка игр</direction>
+                    <direction id="16">Анимация</direction>
+                </directions>
+                <grades>
+                    <grade id="3">2 класс</grade>
+                    <grade id="4">3 класс</grade>
+                    <grade id="5">4 класс</grade>
+                    <grade id="6">5 класс</grade>
+                    <grade id="7">6 класс</grade>
+                </grades>
+                <format>Онлайн</format>
+                <type>Курс</type>
+                <param name="Выдаётся сертификат">Да</param>
+                <param name="Есть пробный урок">Да</param> 
+                <param name="Оплата материнским капиталом">Да</param>
+                <param name="Гарантия результата">Нет</param>
+                <param name="Есть куратор">Нет</param>
+                <param name="Подбор графика занятий">Да</param>
+                <param name="Когда">В любое время</param>
+                <duration unit="months">9</duration>
+                <param name="Оплата в рассрочку">Да</param>
+                <param name="Период рассрочки">до 12 месяцев</param>
+                <param name="Ежемесячный платеж">11250</param>
+
+            </offer>
+                
+            <offer id="pixel_011" available="true">
+                <name>Курс графического дизайна для детей 9-13 лет</name>
+                <url>https://clubpixel.ru/graficheskij-dizajn-mladshie-shkolniki?utm_source=habr&amp;utm_medium=agregator&amp;utm_campaign=partner</url>
+                <picture>https://github.com/pixel-marketing/feed/blob/e3fe310266bf5598cee7908a8989878eb9e116cd/course-11-%D0%9A%D1%83%D1%80%D1%81%20%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D0%B4%D0%B8%D0%B7%D0%B0%D0%B8%CC%86%D0%BD%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D0%B4%D0%B5%D1%82%D0%B5%D0%B8%CC%86%209-13%20%D0%BB%D0%B5%D1%82.jpg.jpg</picture>
+                <price>36000</price>
+                <oldprice>43200</oldprice>
+                <currencyId>RUB</currencyId>
+                <param name="Количество занятий">36</param>
+                <description>графического дизайна для детей 9-13 лет — курс для детей и школьников, который помогает освоить выбранное IT-направление через практические задания и учебные проекты. Ученики знакомятся с базовыми инструментами, развивают алгоритмическое и проектное мышление, выполняют задания по теме курса и постепенно переходят от простых упражнений к самостоятельным работам. Программа подходит для старта в цифровых навыках и дальнейшего изучения программирования, дизайна, разработки игр или робототехники в зависимости от направления курса.</description>
+                <target>Научиться программировать</target>
+                <directions>
+                    <direction id="25">Adobe Photoshop</direction>
+                    <direction id="26">Adobe Illustrator</direction>
+                    <direction id="17">Графический дизайн</direction>
+                    <direction id="35">Цифровое рисование</direction>
+                </directions>
+                <grades>
+                    <grade id="4">3 класс</grade>
+                    <grade id="5">4 класс</grade>
+                    <grade id="6">5 класс</grade>
+                    <grade id="7">6 класс</grade>
+                    <grade id="8">7 класс</grade>
+                </grades>
+                <format>Онлайн</format>
+                <type>Курс</type>
+                <param name="Выдаётся сертификат">Да</param>
+                <param name="Есть пробный урок">Да</param> 
+                <param name="Оплата материнским капиталом">Да</param>
+                <param name="Гарантия результата">Нет</param>
+                <param name="Есть куратор">Нет</param>
+                <param name="Подбор графика занятий">Да</param>
+                <param name="Когда">В любое время</param>
+                <duration unit="months">9</duration>
+                <param name="Оплата в рассрочку">Да</param>
+                <param name="Период рассрочки">до 12 месяцев</param>
+                <param name="Ежемесячный платеж">11250</param>
+
+            </offer>
+            
+            <offer id="pixel_012" available="true">
+                <name>Курс веб-дизайна для детей 9-13 лет</name>
+                <url>https://clubpixel.ru/webdesign-mladshie-shkolniki?utm_source=habr&amp;utm_medium=agregator&amp;utm_campaign=partner</url>
+                <picture>https://github.com/pixel-marketing/feed/blob/e3fe310266bf5598cee7908a8989878eb9e116cd/course-12-%D0%9A%D1%83%D1%80%D1%81%20%D0%B2%D0%B5%D0%B1-%D0%B4%D0%B8%D0%B7%D0%B0%D0%B8%CC%86%D0%BD%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D0%B4%D0%B5%D1%82%D0%B5%D0%B8%CC%86%209-13%20%D0%BB%D0%B5%D1%82.jpg.jpg</picture>
+                <price>36000</price>
+                <oldprice>43200</oldprice>
+                <currencyId>RUB</currencyId>
+                <param name="Количество занятий">36</param>
+                <description>веб-дизайна для детей 9-13 лет — курс для детей и школьников, который помогает освоить выбранное IT-направление через практические задания и учебные проекты. Ученики знакомятся с базовыми инструментами, развивают алгоритмическое и проектное мышление, выполняют задания по теме курса и постепенно переходят от простых упражнений к самостоятельным работам. Программа подходит для старта в цифровых навыках и дальнейшего изучения программирования, дизайна, разработки игр или робототехники в зависимости от направления курса.</description>
+                <target>Научиться программировать</target>
+                <directions>
+                    <direction id="27">Tilda</direction>
+                    <direction id="23">Веб-дизайн</direction>
+                    <direction id="28">Информационные технологии</direction>
+                </directions>
+                <grades>
+                    <grade id="4">3 класс</grade>
+                    <grade id="5">4 класс</grade>
+                    <grade id="6">5 класс</grade>
+                    <grade id="7">6 класс</grade>
+                    <grade id="8">7 класс</grade>
+                </grades>
+                <format>Онлайн</format>
+                <type>Курс</type>
+                <param name="Выдаётся сертификат">Да</param>
+                <param name="Есть пробный урок">Да</param> 
+                <param name="Оплата материнским капиталом">Да</param>
+                <param name="Гарантия результата">Нет</param>
+                <param name="Есть куратор">Нет</param>
+                <param name="Подбор графика занятий">Да</param>
+                <param name="Когда">В любое время</param>
+                <duration unit="months">9</duration>
+                <param name="Оплата в рассрочку">Да</param>
+                <param name="Период рассрочки">до 12 месяцев</param>
+                <param name="Ежемесячный платеж">11250</param>
+
+            </offer>
+            
+            <offer id="pixel_013" available="true">
+                <name>Программирование на языке Python в Minecraft</name>
+                <url>https://clubpixel.ru/minecraft?utm_source=habr&amp;utm_medium=agregator&amp;partner</url>
+                <picture>https://github.com/pixel-marketing/feed/blob/e3fe310266bf5598cee7908a8989878eb9e116cd/course-13-%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BD%D0%B0%20%D1%8F%D0%B7%D1%8B%D0%BA%D0%B5%20Python%20%D0%B2%20Minecraft.jpg.jpg</picture>
+                <price>36000</price>
+                <oldprice>43200</oldprice>
+                <currencyId>RUB</currencyId>
+                <param name="Количество занятий">36</param>
+                <description>Программирование на языке Python в Minecraft — курс для детей и школьников, который помогает освоить выбранное IT-направление через практические задания и учебные проекты. Ученики знакомятся с базовыми инструментами, развивают алгоритмическое и проектное мышление, выполняют задания по теме курса и постепенно переходят от простых упражнений к самостоятельным работам. Программа подходит для старта в цифровых навыках и дальнейшего изучения программирования, дизайна, разработки игр или робототехники в зависимости от направления курса.</description>
+                <target>Научиться программировать</target>
+                <directions>
+                    <direction id="1">Программирование</direction>
+                    <direction id="2">Python</direction>
+                    <direction id="4">Minecraft</direction>
+                    <direction id="13">Разработка игр</direction>
+                    <direction id="18">Геймдизайн</direction>
+                    <direction id="8">Нейросети</direction>
+                </directions>
+                <grades>
+                    <grade id="4">3 класс</grade>
+                    <grade id="5">4 класс</grade>
+                    <grade id="6">5 класс</grade>
+                    <grade id="7">6 класс</grade>
+                    <grade id="8">7 класс</grade>
+                </grades>
+                <format>Онлайн</format>
+                <type>Курс</type>
+                <param name="Выдаётся сертификат">Да</param>
+                <param name="Есть пробный урок">Да</param> 
+                <param name="Оплата материнским капиталом">Да</param>
+                <param name="Гарантия результата">Нет</param>
+                <param name="Есть куратор">Нет</param>
+                <param name="Подбор графика занятий">Да</param>
+                <param name="Когда">В любое время</param>
+                <duration unit="months">9</duration>
+                <param name="Оплата в рассрочку">Да</param>
+                <param name="Период рассрочки">до 12 месяцев</param>
+                <param name="Ежемесячный платеж">11250</param>
+
+            </offer>
+
+            <offer id="pixel_014" available="true">
+                <name>Roblox Studio — создание игр и программирование на языке Lua</name>
+                <url>https://clubpixel.ru/roblox?utm_source=habr&amp;utm_medium=agregator&amp;utm_campaign=partner</url>
+                <picture>https://github.com/pixel-marketing/feed/blob/e3fe310266bf5598cee7908a8989878eb9e116cd/course-14-Roblox%20Studio%20%E2%80%94%20%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B8%D0%B3%D1%80%20%D0%B8%20%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BD%D0%B0%20%D1%8F%D0%B7%D1%8B%D0%BA%D0%B5%20Lua.jpg.jpg</picture>
+                <price>36000</price>
+                <oldprice>43200</oldprice>
+                <currencyId>RUB</currencyId>
+                <param name="Количество занятий">36</param>
+                <description>Roblox Studio и Lua для создания игр — курс для детей и школьников, который помогает освоить выбранное IT-направление через практические задания и учебные проекты. Ученики знакомятся с базовыми инструментами, развивают алгоритмическое и проектное мышление, выполняют задания по теме курса и постепенно переходят от простых упражнений к самостоятельным работам. Программа подходит для старта в цифровых навыках и дальнейшего изучения программирования, дизайна, разработки игр или робототехники в зависимости от направления курса.</description>
+                <target>Научиться программировать</target>
+                <directions>
+                    <direction id="1">Программирование</direction>
+                    <direction id="3">Roblox</direction>
+                    <direction id="20">Lua</direction>
+                    <direction id="18">Геймдизайн</direction>
+                    <direction id="13">Разработка игр</direction>
+                </directions>
+                <grades>
+                    <grade id="4">3 класс</grade>
+                    <grade id="5">4 класс</grade>
+                    <grade id="6">5 класс</grade>
+                    <grade id="7">6 класс</grade>
+                    <grade id="8">7 класс</grade>
+                    <grade id="9">8 класс</grade>
+                </grades>
+                <format>Онлайн</format>
+                <type>Курс</type>
+                <param name="Выдаётся сертификат">Да</param>
+                <param name="Есть пробный урок">Да</param> 
+                <param name="Оплата материнским капиталом">Да</param>
+                <param name="Гарантия результата">Нет</param>
+                <param name="Есть куратор">Нет</param>
+                <param name="Подбор графика занятий">Да</param>
+                <param name="Когда">В любое время</param>
+                <duration unit="months">9</duration>
+                <param name="Оплата в рассрочку">Да</param>
+                <param name="Период рассрочки">до 12 месяцев</param>
+                <param name="Ежемесячный платеж">11250</param>
+
+            </offer>
+            
+            <offer id="pixel_015" available="true">
+                <name>3D-моделирование для детей в Roblox</name>
+                <url>https://clubpixel.ru/roblox-modelirovanie?utm_source=habr&amp;utm_medium=agregator&amp;utm_campaign=partner</url>
+                <picture>https://github.com/pixel-marketing/feed/blob/e3fe310266bf5598cee7908a8989878eb9e116cd/course-15-3D-%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B4%D0%BB%D1%8F%20%D0%B4%D0%B5%D1%82%D0%B5%D0%B8%CC%86%20%D0%B2%20Roblox.jpg.jpg</picture>
+                <price>36000</price>
+                <oldprice>43200</oldprice>
+                <currencyId>RUB</currencyId>
+                <param name="Количество занятий">36</param>
+                <description>3D-моделирование для детей в Roblox — курс для детей и школьников, который помогает освоить выбранное IT-направление через практические задания и учебные проекты. Ученики знакомятся с базовыми инструментами, развивают алгоритмическое и проектное мышление, выполняют задания по теме курса и постепенно переходят от простых упражнений к самостоятельным работам. Программа подходит для старта в цифровых навыках и дальнейшего изучения программирования, дизайна, разработки игр или робототехники в зависимости от направления курса.</description>
+                <target>Научиться программировать</target>
+                <directions>
+                    <direction id="29">3D-моделирование</direction>
+                    <direction id="3">Roblox</direction>
+                    <direction id="16">Анимация</direction>
+                </directions>
+                <grades>
+                    <grade id="3">2 класс</grade>
+                    <grade id="4">3 класс</grade>
+                    <grade id="5">4 класс</grade>
+                    <grade id="6">5 класс</grade>
+                    <grade id="7">6 класс</grade>
+                    <grade id="8">7 класс</grade>
+                </grades>
+                <format>Онлайн</format>
+                <type>Курс</type>
+                <param name="Выдаётся сертификат">Да</param>
+                <param name="Есть пробный урок">Да</param> 
+                <param name="Оплата материнским капиталом">Да</param>
+                <param name="Гарантия результата">Нет</param>
+                <param name="Есть куратор">Нет</param>
+                <param name="Подбор графика занятий">Да</param>
+                <param name="Когда">В любое время</param>
+                <duration unit="months">9</duration>
+                <param name="Оплата в рассрочку">Да</param>
+                <param name="Период рассрочки">до 12 месяцев</param>
+                <param name="Ежемесячный платеж">11250</param>
+
+            </offer>
+            
+            <offer id="pixel_016" available="true">
+                <name>Курс Python и искусственного интеллекта для детей 10–13 лет</name>
+                <url>https://clubpixel.ru/python_ai_dlja_detej?utm_source=habr&amp;utm_medium=agregator&amp;utm_campaign=partner</url>
+                <picture>https://github.com/pixel-marketing/feed/blob/e3fe310266bf5598cee7908a8989878eb9e116cd/course-16-%D0%9A%D1%83%D1%80%D1%81%20Python%20%D0%B8%20%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%B8%D0%BD%D1%82%D0%B5%D0%BB%D0%BB%D0%B5%D0%BA%D1%82%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D0%B4%D0%B5%D1%82%D0%B5%D0%B8%CC%86%2010%E2%80%9313%20%D0%BB%D0%B5%D1%82.jpg.jpg</picture>
+                <price>36000</price>
+                <oldprice>43200</oldprice>
+                <currencyId>RUB</currencyId>
+                <param name="Количество занятий">36</param>
+                <description>Python и искусственного интеллекта для детей 10–13 лет — курс для детей и школьников, который помогает освоить выбранное IT-направление через практические задания и учебные проекты. Ученики знакомятся с базовыми инструментами, развивают алгоритмическое и проектное мышление, выполняют задания по теме курса и постепенно переходят от простых упражнений к самостоятельным работам. Программа подходит для старта в цифровых навыках и дальнейшего изучения программирования, дизайна, разработки игр или робототехники в зависимости от направления курса.</description>
+                <target>Научиться программировать</target>
+                <directions>
+                    <direction id="1">Программирование</direction>
+                    <direction id="2">Python</direction>
+                    <direction id="8">Нейросети</direction>
+                    <direction id="13">Разработка игр</direction>
+                    <direction id="36">Создание чат-ботов</direction>
+                </directions>
+                <grades>
+                    <grade id="5">4 класс</grade>
+                    <grade id="6">5 класс</grade>
+                    <grade id="7">6 класс</grade>
+                    <grade id="8">7 класс</grade>
+                </grades>
+                <format>Онлайн</format>
+                <type>Курс</type>
+                <param name="Выдаётся сертификат">Да</param>
+                <param name="Есть пробный урок">Да</param> 
+                <param name="Оплата материнским капиталом">Да</param>
+                <param name="Гарантия результата">Нет</param>
+                <param name="Есть куратор">Нет</param>
+                <param name="Подбор графика занятий">Да</param>
+                <param name="Когда">В любое время</param>
+                <duration unit="months">9</duration>
+                <param name="Оплата в рассрочку">Да</param>
+                <param name="Период рассрочки">до 12 месяцев</param>
+                <param name="Ежемесячный платеж">11250</param>
+            
+            </offer>
+
+            <offer id="pixel_017" available="true">
+                <name>Construct: курс для детей от 10 до 13 лет</name>
+                <url>https://clubpixel.ru/construct_dlya_detej?utm_source=habr&amp;utm_medium=agregator&amp;utm_campaign=partner</url>
+                <picture>https://github.com/pixel-marketing/feed/blob/e3fe310266bf5598cee7908a8989878eb9e116cd/course-17-Construct_%20%D0%BA%D1%83%D1%80%D1%81%20%D0%B4%D0%BB%D1%8F%20%D0%B4%D0%B5%D1%82%D0%B5%D0%B8%CC%86%20%D0%BE%D1%82%2010%20%D0%B4%D0%BE%2013%20%D0%BB%D0%B5%D1%82.jpg.jpg</picture>
+                <price>36000</price>
+                <oldprice>43200</oldprice>
+                <currencyId>RUB</currencyId>
+                <param name="Количество занятий">36</param>
+                <description>Construct: курс для детей от 10 до 13 лет — курс для детей и школьников, который помогает освоить выбранное IT-направление через практические задания и учебные проекты. Ученики знакомятся с базовыми инструментами, развивают алгоритмическое и проектное мышление, выполняют задания по теме курса и постепенно переходят от простых упражнений к самостоятельным работам. Программа подходит для старта в цифровых навыках и дальнейшего изучения программирования, дизайна, разработки игр или робототехники в зависимости от направления курса.</description>
+                <target>Научиться программировать</target>
+                <directions>
+                    <direction id="1">Программирование</direction>
+                    <direction id="18">Геймдизайн</direction>
+                    <direction id="13">Разработка игр</direction>
+                </directions>
+                <grades>
+                    <grade id="5">4 класс</grade>
+                    <grade id="6">5 класс</grade>
+                    <grade id="7">6 класс</grade>
+                    <grade id="8">7 класс</grade>
+                </grades>
+                <format>Онлайн</format>
+                <type>Курс</type>
+                <param name="Выдаётся сертификат">Да</param>
+                <param name="Есть пробный урок">Да</param> 
+                <param name="Оплата материнским капиталом">Да</param>
+                <param name="Гарантия результата">Нет</param>
+                <param name="Есть куратор">Нет</param>
+                <param name="Подбор графика занятий">Да</param>
+                <param name="Когда">В любое время</param>
+                <duration unit="months">9</duration>
+                <param name="Оплата в рассрочку">Да</param>
+                <param name="Период рассрочки">до 12 месяцев</param>
+                <param name="Ежемесячный платеж">11250</param>
+            
+            </offer>
+            
+            <offer id="pixel_018" available="true">
+                <name>Создание игр в Unity и программирование на языке C#</name>
+                <url>https://clubpixel.ru/unity?utm_source=habr&amp;utm_medium=agregator&amp;utm_campaign=partner</url>
+                <picture>https://github.com/pixel-marketing/feed/blob/e3fe310266bf5598cee7908a8989878eb9e116cd/course-18-%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B8%D0%B3%D1%80%20%D0%B2%20Unity%20%D0%B8%20%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BD%D0%B0%20%D1%8F%D0%B7%D1%8B%D0%BA%D0%B5%20C%23.jpg.jpg</picture>
+                <price>36000</price>
+                <oldprice>43200</oldprice>
+                <currencyId>RUB</currencyId>
+                <param name="Количество занятий">36</param>
+                <description>Создание игр в Unity и программирование на языке C# — курс для детей и школьников, который помогает освоить выбранное IT-направление через практические задания и учебные проекты. Ученики знакомятся с базовыми инструментами, развивают алгоритмическое и проектное мышление, выполняют задания по теме курса и постепенно переходят от простых упражнений к самостоятельным работам. Программа подходит для старта в цифровых навыках и дальнейшего изучения программирования, дизайна, разработки игр или робототехники в зависимости от направления курса.</description>
+                <target>Научиться программировать</target>
+                <directions>
+                    <direction id="1">Программирование</direction>
+                    <direction id="2">Unity</direction>
+                    <direction id="14">C#</direction>
+                    <direction id="13">Разработка игр</direction>
+                    <direction id="29">3D-моделирование</direction>
+                </directions>
+                <grades>
+                <grade id="5">4 класс</grade>
+                    <grade id="5">4 класс</grade>
+                    <grade id="6">5 класс</grade>
+                    <grade id="7">6 класс</grade>
+                    <grade id="8">7 класс</grade>
+                    <grade id="9">8 класс</grade>
+                </grades>
+                <format>Онлайн</format>
+                <type>Курс</type>
+                <param name="Выдаётся сертификат">Да</param>
+                <param name="Есть пробный урок">Да</param> 
+                <param name="Оплата материнским капиталом">Да</param>
+                <param name="Гарантия результата">Нет</param>
+                <param name="Есть куратор">Нет</param>
+                <param name="Подбор графика занятий">Да</param>
+                <param name="Когда">В любое время</param>
+                <duration unit="months">9</duration>
+                <param name="Оплата в рассрочку">Да</param>
+                <param name="Период рассрочки">до 12 месяцев</param>
+                <param name="Ежемесячный платеж">11250</param>
+            
+            </offer>
+            
+            <offer id="pixel_019" available="true">
+                <name>Программирование на Python для детей</name>
+                <url>https://clubpixel.ru/python?utm_source=habr&amp;utm_medium=agregator&amp;utm_campaign=partner</url>
+                <picture>https://github.com/pixel-marketing/feed/blob/e3fe310266bf5598cee7908a8989878eb9e116cd/course-19-%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BD%D0%B0%20Python%20%D0%B4%D0%BB%D1%8F%20%D0%B4%D0%B5%D1%82%D0%B5%D0%B8%CC%86.jpg.jpg</picture>
+                <price>36000</price>
+                <oldprice>43200</oldprice>
+                <currencyId>RUB</currencyId>
+                <param name="Количество занятий">36</param>
+                <description>Программирование на Python для детей — курс для детей и школьников, который помогает освоить выбранное IT-направление через практические задания и учебные проекты. Ученики знакомятся с базовыми инструментами, развивают алгоритмическое и проектное мышление, выполняют задания по теме курса и постепенно переходят от простых упражнений к самостоятельным работам. Программа подходит для старта в цифровых навыках и дальнейшего изучения программирования, дизайна, разработки игр или робототехники в зависимости от направления курса.</description>
+                <target>Научиться программировать</target>
+                <directions>
+                    <direction id="1">Программирование</direction>
+                    <direction id="2">Python</direction>
+                </directions>
+                <grades>
+                <grade id="5">4 класс</grade>
+                    <grade id="6">5 класс</grade>
+                    <grade id="7">6 класс</grade>
+                    <grade id="8">7 класс</grade>
+                    <grade id="9">8 класс</grade>
+                </grades>
+                <format>Онлайн</format>
+                <type>Курс</type>
+                <param name="Выдаётся сертификат">Да</param>
+                <param name="Есть пробный урок">Да</param> 
+                <param name="Оплата материнским капиталом">Да</param>
+                <param name="Гарантия результата">Нет</param>
+                <param name="Есть куратор">Нет</param>
+                <param name="Подбор графика занятий">Да</param>
+                <param name="Когда">В любое время</param>
+                <duration unit="months">9</duration>
+                <param name="Оплата в рассрочку">Да</param>
+                <param name="Период рассрочки">до 12 месяцев</param>
+                <param name="Ежемесячный платеж">11250</param>
+
+            </offer>
+            
+            <offer id="pixel_020" available="true">
+                <name>Создание сайтов на языках HTML, CSS, JavaScript для детей</name>
+                <url>https://clubpixel.ru/htmlcss?utm_source=habr&amp;utm_medium=agregator&amp;utm_campaign=partner</url>
+                <picture>https://github.com/pixel-marketing/feed/blob/e3fe310266bf5598cee7908a8989878eb9e116cd/course-20-%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%81%D0%B0%D0%B8%CC%86%D1%82%D0%BE%D0%B2%20%D0%BD%D0%B0%20%D1%8F%D0%B7%D1%8B%D0%BA%D0%B0%D1%85%20HTML%2C%20CSS%2C%20JavaScript%20%D0%B4%D0%BB%D1%8F%20%D0%B4%D0%B5%D1%82%D0%B5%D0%B8%CC%86.jpg.jpg</picture>
+                <price>36000</price>
+                <oldprice>43200</oldprice>
+                <currencyId>RUB</currencyId>
+                <param name="Количество занятий">36</param>
+                <description>Создание сайтов на языках HTML, CSS, JavaScript для детей — курс для детей и школьников, который помогает освоить выбранное IT-направление через практические задания и учебные проекты. Ученики знакомятся с базовыми инструментами, развивают алгоритмическое и проектное мышление, выполняют задания по теме курса и постепенно переходят от простых упражнений к самостоятельным работам. Программа подходит для старта в цифровых навыках и дальнейшего изучения программирования, дизайна, разработки игр или робототехники в зависимости от направления курса.</description>
+                <target>Научиться программировать</target>
+                <directions>
+                    <direction id="1">Программирование</direction>
+                    <direction id="11">Frontend-разработка</direction>
+                    <direction id="12">HTML/CSS</direction>
+                    <direction id="15">JavaScript</direction>
+                    <direction id="23">Веб-дизайн</direction>
+                </directions>
+                <grades>
+                    <grade id="7">6 класс</grade>
+                    <grade id="8">7 класс</grade>
+                    <grade id="9">8 класс</grade>
+                    <grade id="10">9 класс</grade>
+                    <grade id="11">10 класс</grade>
+                    <grade id="12">11 класс</grade>
+                </grades>
+                <format>Онлайн</format>
+                <type>Курс</type>
+                <param name="Выдаётся сертификат">Да</param>
+                <param name="Есть пробный урок">Да</param> 
+                <param name="Оплата материнским капиталом">Да</param>
+                <param name="Гарантия результата">Нет</param>
+                <param name="Есть куратор">Нет</param>
+                <param name="Подбор графика занятий">Да</param>
+                <param name="Когда">В любое время</param>
+                <duration unit="months">9</duration>
+                <param name="Оплата в рассрочку">Да</param>
+                <param name="Период рассрочки">до 12 месяцев</param>
+                <param name="Ежемесячный платеж">11250</param>
+
+            </offer>
+            
+            <offer id="pixel_021" available="true">
+                <name>Веб-дизайн Figma для детей от 12 лет</name>
+                <url>https://clubpixel.ru/webdesign?utm_source=habr&amp;utm_medium=agregator&amp;utm_campaign=partner</url>
+                <picture>https://github.com/pixel-marketing/feed/blob/e3fe310266bf5598cee7908a8989878eb9e116cd/course-21-%D0%92%D0%B5%D0%B1-%D0%B4%D0%B8%D0%B7%D0%B0%D0%B8%CC%86%D0%BD%20Figma%20%D0%B4%D0%BB%D1%8F%20%D0%B4%D0%B5%D1%82%D0%B5%D0%B8%CC%86%20%D0%BE%D1%82%2012%20%D0%BB%D0%B5%D1%82.jpg.jpg</picture>
+                <price>36000</price>
+                <oldprice>43200</oldprice>
+                <currencyId>RUB</currencyId>
+                <param name="Количество занятий">36</param>
+                <description>Веб-дизайн Figma для детей от 12 лет — курс для детей и школьников, который помогает освоить выбранное IT-направление через практические задания и учебные проекты. Ученики знакомятся с базовыми инструментами, развивают алгоритмическое и проектное мышление, выполняют задания по теме курса и постепенно переходят от простых упражнений к самостоятельным работам. Программа подходит для старта в цифровых навыках и дальнейшего изучения программирования, дизайна, разработки игр или робототехники в зависимости от направления курса.</description>
+                <target>Научиться программировать</target>
+                <directions>
+                    <direction id="1">Программирование</direction>
+                    <direction id="11">Frontend-разработка</direction>
+                    <direction id="23">Веб-дизайн</direction>
+                    <direction id="27">Tilda</direction>
+                </directions>
+                <grades>
+                    <grade id="7">6 класс</grade>
+                    <grade id="8">7 класс</grade>
+                    <grade id="9">8 класс</grade>
+                    <grade id="10">9 класс</grade>
+                    <grade id="11">10 класс</grade>
+                    <grade id="12">11 класс</grade>
+                </grades>
+                <format>Онлайн</format>
+                <type>Курс</type>
+                <param name="Выдаётся сертификат">Да</param>
+                <param name="Есть пробный урок">Да</param> 
+                <param name="Оплата материнским капиталом">Да</param>
+                <param name="Гарантия результата">Нет</param>
+                <param name="Есть куратор">Нет</param>
+                <param name="Подбор графика занятий">Да</param>
+                <param name="Когда">В любое время</param>
+                <duration unit="months">9</duration>
+                <param name="Оплата в рассрочку">Да</param>
+                <param name="Период рассрочки">до 12 месяцев</param>
+                <param name="Ежемесячный платеж">11250</param>
+
+            </offer>
+            
+            <offer id="pixel_022" available="true">
+                <name>Курс графического дизайна для школьников от 12 лет</name>
+                <url>https://clubpixel.ru/graficheskij-dizajn-starshie-shkolniki?utm_source=habr&amp;utm_medium=agregator&amp;utm_campaign=partner</url>
+                <picture>https://github.com/pixel-marketing/feed/blob/e3fe310266bf5598cee7908a8989878eb9e116cd/course-22-%D0%9A%D1%83%D1%80%D1%81%20%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D0%B4%D0%B8%D0%B7%D0%B0%D0%B8%CC%86%D0%BD%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D1%88%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D0%BE%D1%82%2012%20%D0%BB%D0%B5%D1%82.jpg.jpg</picture>
+                <price>36000</price>
+                <oldprice>43200</oldprice>
+                <currencyId>RUB</currencyId>
+                <param name="Количество занятий">36</param>
+                <description>графического дизайна для школьников от 12 лет — курс для детей и школьников, который помогает освоить выбранное IT-направление через практические задания и учебные проекты. Ученики знакомятся с базовыми инструментами, развивают алгоритмическое и проектное мышление, выполняют задания по теме курса и постепенно переходят от простых упражнений к самостоятельным работам. Программа подходит для старта в цифровых навыках и дальнейшего изучения программирования, дизайна, разработки игр или робототехники в зависимости от направления курса.</description>
+                <target>Научиться программировать</target>
+                <directions>
+                    <direction id="17">Графический дизайн</direction>
+                    <direction id="25">Adobe Photoshop</direction>
+                    <direction id="26">Adobe Illustrator</direction>
+                </directions>
+                <grades>
+                    <grade id="7">6 класс</grade>
+                    <grade id="8">7 класс</grade>
+                    <grade id="9">8 класс</grade>
+                    <grade id="10">9 класс</grade>
+                    <grade id="11">10 класс</grade>
+                    <grade id="12">11 класс</grade>
+                </grades>
+                <format>Онлайн</format>
+                <type>Курс</type>
+                <param name="Выдаётся сертификат">Да</param>
+                <param name="Есть пробный урок">Да</param> 
+                <param name="Оплата материнским капиталом">Да</param>
+                <param name="Гарантия результата">Нет</param>
+                <param name="Есть куратор">Нет</param>
+                <param name="Подбор графика занятий">Да</param>
+                <param name="Когда">В любое время</param>
+                <duration unit="months">9</duration>
+                <param name="Оплата в рассрочку">Да</param>
+                <param name="Период рассрочки">до 12 месяцев</param>
+                <param name="Ежемесячный платеж">11250</param>
+
+            </offer>
+            
+            <offer id="pixel_023" available="true">
+                <name>3D-моделированиедля школьниковв Blender</name>
+                <url>https://clubpixel.ru/3d-modelirovanie-blender?utm_source=habr&amp;utm_medium=agregator&amp;utm_campaign=partner</url>
+                <picture>https://github.com/pixel-marketing/feed/blob/e3fe310266bf5598cee7908a8989878eb9e116cd/course-23-3D-%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%D0%B4%D0%BB%D1%8F%20%D1%88%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B2%20Blender.jpg.jpg</picture>
+                <price>36000</price>
+                <oldprice>43200</oldprice>
+                <currencyId>RUB</currencyId>
+                <param name="Количество занятий">36</param>
+                <description>3D-моделирование в Blender для школьников — курс для детей и школьников, который помогает освоить выбранное IT-направление через практические задания и учебные проекты. Ученики знакомятся с базовыми инструментами, развивают алгоритмическое и проектное мышление, выполняют задания по теме курса и постепенно переходят от простых упражнений к самостоятельным работам. Программа подходит для старта в цифровых навыках и дальнейшего изучения программирования, дизайна, разработки игр или робототехники в зависимости от направления курса.</description>
+                <target>Научиться программировать</target>
+                <directions>
+                    <direction id="7">Blender</direction>
+                    <direction id="18">Геймдизайн</direction>
+                    <direction id="29">3D-моделирование</direction>
+                </directions>
+                <grades>
+                    <grade id="8">7 класс</grade>
+                    <grade id="9">8 класс</grade>
+                    <grade id="10">9 класс</grade>
+                    <grade id="11">10 класс</grade>
+                    <grade id="12">11 класс</grade>
+                </grades>
+                <format>Онлайн</format>
+                <type>Курс</type>
+                <param name="Выдаётся сертификат">Да</param>
+                <param name="Есть пробный урок">Да</param> 
+                <param name="Оплата материнским капиталом">Да</param>
+                <param name="Гарантия результата">Нет</param>
+                <param name="Есть куратор">Нет</param>
+                <param name="Подбор графика занятий">Да</param>
+                <param name="Когда">В любое время</param>
+                <duration unit="months">9</duration>
+                <param name="Оплата в рассрочку">Да</param>
+                <param name="Период рассрочки">до 12 месяцев</param>
+                <param name="Ежемесячный платеж">11250</param>
+            </offer>
+            
+            <offer id="pixel_024" available="true">
+                <name>Курс программирования Java для школьников</name>
+                <url>https://clubpixel.ru/java?utm_source=habr&amp;utm_medium=agregator&amp;utm_campaign=partner</url>
+                <picture>https://github.com/pixel-marketing/feed/blob/e3fe310266bf5598cee7908a8989878eb9e116cd/course-24-%D0%9A%D1%83%D1%80%D1%81%20%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20Java%20%D0%B4%D0%BB%D1%8F%20%D1%88%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2.jpg.jpg</picture>
+                <price>36000</price>
+                <oldprice>43200</oldprice>
+                <currencyId>RUB</currencyId>
+                <param name="Количество занятий">36</param>
+                <description>программирования Java для школьников — курс для детей и школьников, который помогает освоить выбранное IT-направление через практические задания и учебные проекты. Ученики знакомятся с базовыми инструментами, развивают алгоритмическое и проектное мышление, выполняют задания по теме курса и постепенно переходят от простых упражнений к самостоятельным работам. Программа подходит для старта в цифровых навыках и дальнейшего изучения программирования, дизайна, разработки игр или робототехники в зависимости от направления курса.</description>
+                <target>Научиться программировать</target>
+                <directions>
+                    <direction id="1">Программирование</direction>
+                    <direction id="28">Информационные технологии</direction>
+                    <direction id="31">Java</direction>
+                </directions>
+                <grades>
+                    <grade id="8">7 класс</grade>
+                    <grade id="9">8 класс</grade>
+                    <grade id="10">9 класс</grade>
+                    <grade id="11">10 класс</grade>
+                    <grade id="12">11 класс</grade>
+                </grades>
+                <format>Онлайн</format>
+                <type>Курс</type>
+                <param name="Выдаётся сертификат">Да</param>
+                <param name="Есть пробный урок">Да</param> 
+                <param name="Оплата материнским капиталом">Да</param>
+                <param name="Гарантия результата">Нет</param>
+                <param name="Есть куратор">Нет</param>
+                <param name="Подбор графика занятий">Да</param>
+                <param name="Когда">В любое время</param>
+                <duration unit="months">9</duration>
+                <param name="Оплата в рассрочку">Да</param>
+                <param name="Период рассрочки">до 12 месяцев</param>
+                <param name="Ежемесячный платеж">11250</param>
+
+            </offer>
+            
+            <offer id="pixel_025" available="true">
+                <name>Курс фронтенд-разработки ReactJS для школьников</name>
+                <url>https://clubpixel.ru/programmirovanie-reactjs?utm_source=habr&amp;utm_medium=agregator&amp;utm_campaign=partner</url>
+                <picture>https://github.com/pixel-marketing/feed/blob/e3fe310266bf5598cee7908a8989878eb9e116cd/course-25-%D0%9A%D1%83%D1%80%D1%81%20%D1%84%D1%80%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D0%B4-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B8%20ReactJS%20%D0%B4%D0%BB%D1%8F%20%D1%88%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2.jpg.jpg</picture>
+                <price>36000</price>
+                <oldprice>43200</oldprice>
+                <currencyId>RUB</currencyId>
+                <param name="Количество занятий">36</param>
+                <description>фронтенд-разработки ReactJS для школьников — курс для детей и школьников, который помогает освоить выбранное IT-направление через практические задания и учебные проекты. Ученики знакомятся с базовыми инструментами, развивают алгоритмическое и проектное мышление, выполняют задания по теме курса и постепенно переходят от простых упражнений к самостоятельным работам. Программа подходит для старта в цифровых навыках и дальнейшего изучения программирования, дизайна, разработки игр или робототехники в зависимости от направления курса.</description>
+                <target>Научиться программировать</target>
+                <directions>
+                    <direction id="1">Программирование</direction>
+                    <direction id="11">Frontend-разработка</direction>
+                    <direction id="15">JavaScript</direction>
+                    <direction id="30">Верстка сайтов</direction>
+                </directions>
+                <grades>
+                    <grade id="8">7 класс</grade>
+                    <grade id="9">8 класс</grade>
+                    <grade id="10">9 класс</grade>
+                    <grade id="11">10 класс</grade>
+                    <grade id="12">11 класс</grade>
+                </grades>
+                 <format>Онлайн</format>
+                <type>Курс</type>
+                <param name="Выдаётся сертификат">Да</param>
+                <param name="Есть пробный урок">Да</param> 
+                <param name="Оплата материнским капиталом">Да</param>
+                <param name="Гарантия результата">Нет</param>
+                <param name="Есть куратор">Нет</param>
+                <param name="Подбор графика занятий">Да</param>
+                <param name="Когда">В любое время</param>
+                <duration unit="months">9</duration>
+                <param name="Оплата в рассрочку">Да</param>
+                <param name="Период рассрочки">до 12 месяцев</param>
+                <param name="Ежемесячный платеж">11250</param>
+
+            </offer>
+            
+            <offer id="pixel_026" available="true">
+                <name>Курс Python Django для школьников 14-17 лет</name>
+                <url>https://clubpixel.ru/django_dlya_detej?utm_source=habr&amp;utm_medium=agregator&amp;utm_campaign=partner</url>
+                <picture>https://github.com/pixel-marketing/feed/blob/e3fe310266bf5598cee7908a8989878eb9e116cd/course-26-%D0%9A%D1%83%D1%80%D1%81%20Python%20Django%20%D0%B4%D0%BB%D1%8F%20%D1%88%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%2014-17%20%D0%BB%D0%B5%D1%82.jpg.jpg</picture>
+                <price>36000</price>
+                <oldprice>43200</oldprice>
+                <currencyId>RUB</currencyId>
+                <param name="Количество занятий">36</param>
+                <description>Python Django для школьников 14-17 лет — курс для детей и школьников, который помогает освоить выбранное IT-направление через практические задания и учебные проекты. Ученики знакомятся с базовыми инструментами, развивают алгоритмическое и проектное мышление, выполняют задания по теме курса и постепенно переходят от простых упражнений к самостоятельным работам. Программа подходит для старта в цифровых навыках и дальнейшего изучения программирования, дизайна, разработки игр или робототехники в зависимости от направления курса.</description>
+                <target>Научиться программировать</target>
+                <directions>
+                    <direction id="1">Программирование</direction>
+                    <direction id="2">Python</direction>
+                    <direction id="30">Верстка сайтов</direction>
+                </directions>
+                <grades>
+                    <grade id="1">8 класс</grade>
+                    <grade id="2">9 класс</grade>
+                    <grade id="3">10 класс</grade>
+                    <grade id="4">11 класс</grade>
+                </grades>
+                  <format>Онлайн</format>
+                <type>Курс</type>
+                <param name="Выдаётся сертификат">Да</param>
+                <param name="Есть пробный урок">Да</param> 
+                <param name="Оплата материнским капиталом">Да</param>
+                <param name="Гарантия результата">Нет</param>
+                <param name="Есть куратор">Нет</param>
+                <param name="Подбор графика занятий">Да</param>
+                <param name="Когда">В любое время</param>
+                <duration unit="months">9</duration>
+                <param name="Оплата в рассрочку">Да</param>
+                <param name="Период рассрочки">до 12 месяцев</param>
+                <param name="Ежемесячный платеж">11250</param>
+
+            </offer>
+            
+            <offer id="pixel_027" available="true">
+                <name>Курс анимации в Moho для школьников</name>
+                <url>https://clubpixel.ru/moho_dlja_detej?utm_source=habr&amp;utm_medium=agregator&amp;utm_campaign=partner</url>
+                <picture>https://github.com/pixel-marketing/feed/blob/e3fe310266bf5598cee7908a8989878eb9e116cd/course-27-%D0%9A%D1%83%D1%80%D1%81%20%D0%B0%D0%BD%D0%B8%D0%BC%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B2%20Moho%20%D0%B4%D0%BB%D1%8F%20%D1%88%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2.jpg.jpg</picture>
+                <price>36000</price>
+                <oldprice>43200</oldprice>
+                <currencyId>RUB</currencyId>
+                <param name="Количество занятий">36</param>
+                <description>анимации в Moho для школьников — курс для детей и школьников, который помогает освоить выбранное IT-направление через практические задания и учебные проекты. Ученики знакомятся с базовыми инструментами, развивают алгоритмическое и проектное мышление, выполняют задания по теме курса и постепенно переходят от простых упражнений к самостоятельным работам. Программа подходит для старта в цифровых навыках и дальнейшего изучения программирования, дизайна, разработки игр или робототехники в зависимости от направления курса.</description>
+                <target>Научиться программировать</target>
+                <directions>
+                    <direction id="16">Анимация</direction>
+                    <direction id="39">Видеомонтаж</direction>
+                </directions>
+                <grades>
+                    <grade id="8">7 класс</grade>
+                    <grade id="9">8 класс</grade>
+                    <grade id="10">9 класс</grade>
+                    <grade id="11">10 класс</grade>
+                    <grade id="12">11 класс</grade>
+                </grades>
+                <format>Онлайн</format>
+                <type>Курс</type>
+                <param name="Выдаётся сертификат">Да</param>
+                <param name="Есть пробный урок">Да</param> 
+                <param name="Оплата материнским капиталом">Да</param>
+                <param name="Гарантия результата">Нет</param>
+                <param name="Есть куратор">Нет</param>
+                <param name="Подбор графика занятий">Да</param>
+                <param name="Когда">В любое время</param>
+                <duration unit="months">9</duration>
+                <param name="Оплата в рассрочку">Да</param>
+                <param name="Период рассрочки">до 12 месяцев</param>
+                <param name="Ежемесячный платеж">11250</param>
+
+            </offer>
+            
+            <offer id="pixel_028" available="true">
+                <name>Курс ИИ для детей: создание приложений с искусственным интеллектом</name>
+                <url>https://clubpixel.ru/dizayn-mobilnyh-prilozheniy-s-ii?utm_source=habr&amp;utm_medium=agregator&amp;utm_campaign=partner</url>
+                <picture>https://github.com/pixel-marketing/feed/blob/e3fe310266bf5598cee7908a8989878eb9e116cd/course-28-%D0%9A%D1%83%D1%80%D1%81%20%D0%98%D0%98%20%D0%B4%D0%BB%D1%8F%20%D0%B4%D0%B5%D1%82%D0%B5%D0%B8%CC%86_%20%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B8%CC%86%20%D1%81%20%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%BC%20%D0%B8%D0%BD%D1%82%D0%B5%D0%BB%D0%BB%D0%B5%D0%BA%D1%82%D0%BE%D0%BC.jpg.jpg</picture>
+                <price>36000</price>
+                <oldprice>43200</oldprice>
+                <currencyId>RUB</currencyId>
+                <param name="Количество занятий">36</param>
+                <description>ИИ для детей: создание приложений с искусственным интеллектом — курс для детей и школьников, который помогает освоить выбранное IT-направление через практические задания и учебные проекты. Ученики знакомятся с базовыми инструментами, развивают алгоритмическое и проектное мышление, выполняют задания по теме курса и постепенно переходят от простых упражнений к самостоятельным работам. Программа подходит для старта в цифровых навыках и дальнейшего изучения программирования, дизайна, разработки игр или робототехники в зависимости от направления курса.</description>
+                <target>Научиться программировать</target>
+                <directions>
+                    <direction id="1">Программирование</direction>
+                    <direction id="8">Нейросети</direction>
+                    <direction id="9">Компьютерная грамотность</direction>
+                    <direction id="22">Figma</direction>
+                </directions>
+                <grades>
+                    <grade id="8">7 класс</grade>
+                    <grade id="9">8 класс</grade>
+                    <grade id="10">9 класс</grade>
+                    <grade id="11">10 класс</grade>
+                    <grade id="12">11 класс</grade>
+                </grades>
+                <format>Онлайн</format>
+                <type>Курс</type>
+                <param name="Выдаётся сертификат">Да</param>
+                <param name="Есть пробный урок">Да</param> 
+                <param name="Оплата материнским капиталом">Да</param>
+                <param name="Гарантия результата">Нет</param>
+                <param name="Есть куратор">Нет</param>
+                <param name="Подбор графика занятий">Да</param>
+                <param name="Когда">В любое время</param>
+                <duration unit="months">9</duration>
+                <param name="Оплата в рассрочку">Да</param>
+                <param name="Период рассрочки">до 12 месяцев</param>
+                <param name="Ежемесячный платеж">11250</param>
+
+            </offer>
+            
+            <offer id="pixel_029" available="true">
+                <name>Курс анимации в Blender для детей</name>
+                <url>https://clubpixel.ru/animaciya-v-blender-dlya-detej?utm_source=habr&amp;utm_medium=agregator&amp;utm_campaign=partner</url>
+                <picture>https://github.com/pixel-marketing/feed/blob/e3fe310266bf5598cee7908a8989878eb9e116cd/course-29-%D0%9A%D1%83%D1%80%D1%81%20%D0%B0%D0%BD%D0%B8%D0%BC%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B2%20Blender%20%D0%B4%D0%BB%D1%8F%20%D0%B4%D0%B5%D1%82%D0%B5%D0%B8%CC%86.jpg.jpg</picture>
+                <price>36000</price>
+                <oldprice>43200</oldprice>
+                <currencyId>RUB</currencyId>
+                <param name="Количество занятий">36</param>
+                <description>анимации в Blender для детей — курс для детей и школьников, который помогает освоить выбранное IT-направление через практические задания и учебные проекты. Ученики знакомятся с базовыми инструментами, развивают алгоритмическое и проектное мышление, выполняют задания по теме курса и постепенно переходят от простых упражнений к самостоятельным работам. Программа подходит для старта в цифровых навыках и дальнейшего изучения программирования, дизайна, разработки игр или робототехники в зависимости от направления курса.</description>
+                <target>Научиться программировать</target>
+                <directions>
+                    <direction id="7">Blender</direction>
+                    <direction id="8">Нейросети</direction>
+                    <direction id="16">Анимация</direction>
+                    <direction id="39">Видеомонтаж</direction>
+                </directions>
+                <grades>
+                    <grade id="8">7 класс</grade>
+                    <grade id="9">8 класс</grade>
+                    <grade id="10">9 класс</grade>
+                    <grade id="11">10 класс</grade>
+                    <grade id="12">11 класс</grade>
+                </grades>
+                <format>Онлайн</format>
+                <type>Курс</type>
+                <param name="Выдаётся сертификат">Да</param>
+                <param name="Есть пробный урок">Да</param> 
+                <param name="Оплата материнским капиталом">Да</param>
+                <param name="Гарантия результата">Нет</param>
+                <param name="Есть куратор">Нет</param>
+                <param name="Подбор графика занятий">Да</param>
+                <param name="Когда">В любое время</param>
+                <duration unit="months">9</duration>
+                <param name="Оплата в рассрочку">Да</param>
+                <param name="Период рассрочки">до 12 месяцев</param>
+                <param name="Ежемесячный платеж">11250</param>
+
+            </offer>
+            
+            <offer id="pixel_030" available="true">
+                <name>Unity для детей: курс разработки мобильных игр</name>
+                <url>https://clubpixel.ru/kurs-unity-dlya-detey-razrabotka-mobilnyh-igr?utm_source=habr&amp;utm_medium=agregator&amp;utm_campaign=partner</url>
+                <picture>https://github.com/pixel-marketing/feed/blob/e3fe310266bf5598cee7908a8989878eb9e116cd/course-30-Unity%20для%20детей_%20курс%20разработки%20мобильных%20игр.jpg.jpg</picture>
+                <price>36000</price>
+                <oldprice>43200</oldprice>
+                <currencyId>RUB</currencyId>
+                <param name="Количество занятий">36</param>
+                <description>Unity для детей: курс разработки мобильных игр — курс для детей и школьников, который помогает освоить выбранное IT-направление через практические задания и учебные проекты. Ученики знакомятся с базовыми инструментами, развивают алгоритмическое и проектное мышление, выполняют задания по теме курса и постепенно переходят от простых упражнений к самостоятельным работам. Программа подходит для старта в цифровых навыках и дальнейшего изучения программирования, дизайна, разработки игр или робототехники в зависимости от направления курса.</description>
+                <target>Научиться программировать</target>
+                <directions>
+                    <direction id="1">Программирование</direction>
+                    <direction id="6">Unity</direction>
+                    <direction id="16">Анимация</direction>
+                    <direction id="18">Геймдизайн</direction>
+                </directions>
+                <grades>
+                    <grade id="8">7 класс</grade>
+                    <grade id="9">8 класс</grade>
+                    <grade id="10">9 класс</grade>
+                    <grade id="11">10 класс</grade>
+                    <grade id="12">11 класс</grade>
+                </grades>
+                <format>Онлайн</format>
+                <type>Курс</type>
+                <param name="Выдаётся сертификат">Да</param>
+                <param name="Есть пробный урок">Да</param> 
+                <param name="Оплата материнским капиталом">Да</param>
+                <param name="Гарантия результата">Нет</param>
+                <param name="Есть куратор">Нет</param>
+                <param name="Подбор графика занятий">Да</param>
+                <param name="Когда">В любое время</param>
+                <duration unit="months">9</duration>
+                <param name="Оплата в рассрочку">Да</param>
+                <param name="Период рассрочки">до 12 месяцев</param>
+                <param name="Ежемесячный платеж">11250</param>
+
+            </offer>
+            
+            <offer id="pixel_031" available="true">
+                <name>Летние курсы программирования для детей</name>
+                <url>https://clubpixel.ru/letnie_kursy_dlya_detei?utm_source=habr&amp;utm_medium=agregator&amp;utm_campaign=partner</url>
+                <picture>https://github.com/pixel-marketing/feed/blob/e3fe310266bf5598cee7908a8989878eb9e116cd/course-31-Летние%20курсы%20программирования%20для%20детей.jpg.jpg</picture>
+                <price>36000</price>
+                <oldprice>43200</oldprice>
+                <currencyId>RUB</currencyId>
+                <param name="Количество занятий">36</param>
+                <description>Летние курсы программирования для детей — курс для детей и школьников, который помогает освоить выбранное IT-направление через практические задания и учебные проекты. Ученики знакомятся с базовыми инструментами, развивают алгоритмическое и проектное мышление, выполняют задания по теме курса и постепенно переходят от простых упражнений к самостоятельным работам. Программа подходит для старта в цифровых навыках и дальнейшего изучения программирования, дизайна, разработки игр или робототехники в зависимости от направления курса.</description>
+                <target>Научиться программировать</target>
+                <directions>
+                    <direction id="1">Программирование</direction>
+                    <direction id="2">Python</direction>
+                    <direction id="3">Roblox</direction>
+                    <direction id="4">Minecraft</direction>
+                    <direction id="5">Scratch</direction>
+                    <direction id="13">Разработка игр</direction>
+                    <direction id="20">Lua</direction>
+                    <direction id="40">Робототехника</direction>
+
+                </directions>
+                <grades>
+                
+                </grades>
+                <format>Онлайн</format>
+                <type>Курс</type>
+                <param name="Выдаётся сертификат">Да</param>
+                <param name="Есть пробный урок">Да</param> 
+                <param name="Оплата материнским капиталом">Да</param>
+                <param name="Гарантия результата">Нет</param>
+                <param name="Есть куратор">Нет</param>
+                <param name="Подбор графика занятий">Да</param>
+                <param name="Когда">В любое время</param>
+                <duration unit="months">9</duration>
+                <param name="Оплата в рассрочку">Да</param>
+                <param name="Период рассрочки">до 12 месяцев</param>
+                <param name="Ежемесячный платеж">11250</param>
+
+            </offer>
+        </offers>
+     </shop>
+</yml_catalog>
+
+
+
