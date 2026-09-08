@@ -1,4 +1,4 @@
-<yml_catalog date="2026-07-14 10:07"> <!--Дата и время последнего обновления фида-->
+<yml_catalog date="2026-09-08 09:27"> <!--Дата и время последнего обновления фида-->
     <shop>
 	    <name>pixel_habr_courses.xml</name> 
 	    <company>Пиксель</company>
@@ -472,7 +472,6 @@
                     <direction id="4">Minecraft</direction>
                     <direction id="13">Разработка игр</direction>
                     <direction id="18">Геймдизайн</direction>
-                    <direction id="8">Нейросети</direction>
                 </directions>
                 <grades>
                     <grade id="4">3 класс</grade>
@@ -1179,6 +1178,161 @@
                 </directions>
                 <grades>
                 
+                </grades>
+                <format>Онлайн</format>
+                <type>Курс</type>
+                <param name="Выдаётся сертификат">Да</param>
+                <param name="Есть пробный урок">Да</param> 
+                <param name="Оплата материнским капиталом">Да</param>
+                <param name="Гарантия результата">Нет</param>
+                <param name="Есть куратор">Нет</param>
+                <param name="Подбор графика занятий">Да</param>
+                <param name="Когда">В любое время</param>
+                <duration unit="months">9</duration>
+                <param name="Оплата в рассрочку">Да</param>
+                <param name="Период рассрочки">до 12 месяцев</param>
+                <param name="Ежемесячный платеж">11250</param>
+
+            </offer>
+
+            <offer id="pixel_032" available="true">
+                <name>Курс Roblox Studio с ИИ для детей</name>
+                <url>https://clubpixel.ru/roblox_s_ii?utm_source=habr&amp;utm_medium=agregator&amp;utm_campaign=partner</url>
+                <picture>https://pixel-marketing.github.io/feed/course-33-Roblox%20Studio%20%D1%81%20%D0%98%D0%98%20%D0%B4%D0%BB%D1%8F%20%D0%B4%D0%B5%D1%82%D0%B5%D0%B8%CC%86.jpg.jpg</picture>
+                <price>36000</price>
+                <oldprice>43200</oldprice>
+                <currencyId>RUB</currencyId>
+                <param name="Количество занятий">36</param>
+                <description>Курс Roblox Studio с ИИ для детей поможет школьникам освоить создание собственных игр, изучить основы программирования на языке Lua и научиться использовать искусственный интеллект как инструмент современного разработчика.На занятиях ученики создают игровые миры в Roblox Studio, проектируют уровни, программируют игровые механики и используют нейросети для генерации идей, написания кода и разработки персонажей. Такой подход помогает детям познакомиться с современными технологиями разработки игр и получить практические навыки, востребованные в IT.</description>
+                <target>Roblox</target>
+                <directions>
+                    <direction id="1">Программирование</direction>
+                    <direction id="3">Roblox</direction>
+                    <direction id="13">Разработка игр</direction>
+                    <direction id="33">Нейросети</direction>
+                </directions>
+                <grades>
+                    <grade id="5">4 класс</grade>
+                    <grade id="6">5 класс</grade>
+                    <grade id="7">6 класс</grade>
+                    <grade id="8">7 класс</grade>
+                    <grade id="9">8 класс</grade>
+                </grades>
+                <format>Онлайн</format>
+                <type>Курс</type>
+                <param name="Выдаётся сертификат">Да</param>
+                <param name="Есть пробный урок">Да</param> 
+                <param name="Оплата материнским капиталом">Да</param>
+                <param name="Гарантия результата">Нет</param>
+                <param name="Есть куратор">Нет</param>
+                <param name="Подбор графика занятий">Да</param>
+                <param name="Когда">В любое время</param>
+                <duration unit="months">9</duration>
+                <param name="Оплата в рассрочку">Да</param>
+                <param name="Период рассрочки">до 12 месяцев</param>
+                <param name="Ежемесячный платеж">11250</param>
+
+            </offer>
+
+            <offer id="pixel_033" available="true">
+                <name>Программирование в Scratch с ИИ для детей</name>
+                <url>https://clubpixel.ru/scratch_s_ii?utm_source=habr&amp;utm_medium=agregator&amp;utm_campaign=partner</url>
+                <picture>https://pixel-marketing.github.io/feed/course-32-Программирование%20в%20Scratch%20с%20ИИ%20для%20детей.jpg.jpg</picture>
+                <price>36000</price>
+                <oldprice>43200</oldprice>
+                <currencyId>RUB</currencyId>
+                <param name="Количество занятий">36</param>
+                <description>В среде программирования Scratch дети 8–12 лет учатся кодить при помощи визуальных блоков и современных технологий искусственного интеллекта. Цветные элементы выполняют роль команд, а ИИ-инструменты помогают генерировать графику, продумывать сюжеты и строить умные алгоритмы. Visual-разработка игр становится увлекательным стартом в мире IT. Педагоги курса готовят учеников к решению реальных задач, всегда готовы направить и подсказать решение на каждом этапе создания игры.</description>
+                <target>Roblox</target>
+                <directions>
+                    <direction id="1">Программирование</direction>
+                    <direction id="33">Нейросети</direction>
+                    <direction id="5">Scratch</direction>
+                    <direction id="13">Разработка игр</direction>
+                </directions>
+                <grades>
+                    <grade id="3">2 класс</grade>
+                    <grade id="4">3 класс</grade>
+                    <grade id="5">4 класс</grade>
+                    <grade id="6">5 класс</grade>
+                    <grade id="7">6 класс</grade>
+                </grades>
+                <format>Онлайн</format>
+                <type>Курс</type>
+                <param name="Выдаётся сертификат">Да</param>
+                <param name="Есть пробный урок">Да</param> 
+                <param name="Оплата материнским капиталом">Да</param>
+                <param name="Гарантия результата">Нет</param>
+                <param name="Есть куратор">Нет</param>
+                <param name="Подбор графика занятий">Да</param>
+                <param name="Когда">В любое время</param>
+                <duration unit="months">9</duration>
+                <param name="Оплата в рассрочку">Да</param>
+                <param name="Период рассрочки">до 12 месяцев</param>
+                <param name="Ежемесячный платеж">11250</param>
+
+            </offer>
+
+            <offer id="pixel_034" available="true">
+                <name>Нейросети и искусственный интеллект для детей 8–12 лет</name>
+                <url>https://clubpixel.ru/programmirovanie-python-v-minecraft-s-ii?utm_source=habr&amp;utm_medium=agregator&amp;utm_campaign=partner</url>
+                <picture>https://pixel-marketing.github.io/feed/course-34-Искусственный%20интеллект%20и%20нейросети%20для%20детей.jpg.jpg</picture>
+                <price>36000</price>
+                <oldprice>43200</oldprice>
+                <currencyId>RUB</currencyId>
+                <param name="Количество занятий">36</param>
+                <description>Курс «Нейросети для детей» познакомит школьников 8–12 лет с искусственным интеллектом и принципами работы современных нейросетей. Ребята узнают, как создается и обучается ИИ, что такое датасеты, как нейросеть учится находить закономерности и каким образом искусственный интеллект распознает изображения и звуки. В отличие от занятий, где дети только используют готовые AI-сервисы, на курсе ученики попробуют самостоятельно обучать нейросети и анализировать результаты их работы. Обучение проходит в доступном для детей формате — сложные технологии изучаются через эксперименты, практические задания и собственные проекты.</description>
+                <target>Roblox</target>
+                <directions>
+                    <direction id="1">Программирование</direction>
+                    <direction id="33">Нейросети</direction>
+                </directions>
+                <grades>
+                    <grade id="3">2 класс</grade>
+                    <grade id="4">3 класс</grade>
+                    <grade id="5">4 класс</grade>
+                    <grade id="6">5 класс</grade>
+                    <grade id="7">6 класс</grade>
+                </grades>
+                <format>Онлайн</format>
+                <type>Курс</type>
+                <param name="Выдаётся сертификат">Да</param>
+                <param name="Есть пробный урок">Да</param> 
+                <param name="Оплата материнским капиталом">Да</param>
+                <param name="Гарантия результата">Нет</param>
+                <param name="Есть куратор">Нет</param>
+                <param name="Подбор графика занятий">Да</param>
+                <param name="Когда">В любое время</param>
+                <duration unit="months">9</duration>
+                <param name="Оплата в рассрочку">Да</param>
+                <param name="Период рассрочки">до 12 месяцев</param>
+                <param name="Ежемесячный платеж">11250</param>
+
+            </offer>
+
+                        <offer id="pixel_035" available="true">
+                <name>Программирование на Python в Minecraft с ИИ для детей</name>
+                <url>https://clubpixel.ru/programmirovanie-python-v-minecraft-s-ii?utm_source=habr&amp;utm_medium=agregator&amp;utm_campaign=partner</url>
+                <picture>https://pixel-marketing.github.io/feed/course-35-%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BD%D0%B0%20Python%20%D0%B2%20Minecraft.jpg.jpg </picture>
+                <price>36000</price>
+                <oldprice>43200</oldprice>
+                <currencyId>RUB</currencyId>
+                <param name="Количество занятий">36</param>
+                <description>В игровой среде Minecraft дети осваивают программирование на языке Python и знакомятся с современными технологиями искусственного интеллекта. Через создание построек, автоматизацию игровых действий и написание собственных скриптов ученики постепенно переходят от простых команд к настоящему программированию. Minecraft помогает превратить изучение кода в увлекательный практический процесс, где результат работы сразу виден в игровом мире.Педагоги курса помогают ученикам разобраться в основах Python, научиться самостоятельно искать решения и превращать собственные идеи в работающие проекты.</description>
+                <target>Roblox</target>
+                <directions>
+                    <direction id="1">Программирование</direction>
+                    <direction id="33">Нейросети</direction>
+                    <direction id="2">Python</direction>
+                    <direction id="4">Minecraft</direction>
+                    <direction id="13">Разработка игр</direction>
+                </directions>
+                <grades>
+                    <grade id="4">3 класс</grade>
+                    <grade id="5">4 класс</grade>
+                    <grade id="6">5 класс</grade>
+                    <grade id="7">6 класс</grade>
+                    <grade id="8">7 класс</grade>
                 </grades>
                 <format>Онлайн</format>
                 <type>Курс</type>
